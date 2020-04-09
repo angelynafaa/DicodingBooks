@@ -1,2 +1,2 @@
 # Belajar Fundamental Front-End Developer
-Silakan lihat branch untuk melihat berkas atau source code yang diinginkan.
+web ini untuk bahan pembelajaran dari dicoding di kelas fundamental web
